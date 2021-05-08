@@ -2,7 +2,7 @@
   "name": "@lucasgueiros/react-hateoas-datatable",
   "version": "1.0.0",
   "description": "A simpe React datatable and other components to acess a Restful HATEOAS API like Spring Data REST",
-  "main": "index.js",
+  "main": "all.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
