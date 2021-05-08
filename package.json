@@ -21,5 +21,9 @@
   "bugs": {
     "url": "https://github.com/lucasgueiros/react-hateoas-datatable/issues"
   },
-  "homepage": "https://github.com/lucasgueiros/react-hateoas-datatable#readme"
+  "homepage": "https://github.com/lucasgueiros/react-hateoas-datatable#readme",
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-router-dom": "^5.2.0"
+  }
 }
