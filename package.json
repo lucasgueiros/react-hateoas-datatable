@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/lucasgueiros/react-hateoas-datatable#readme",
   "dependencies": {
+    "babel-preset-react": "^6.24.1",
     "react": "^17.0.2",
     "react-router-dom": "^5.2.0"
   }
